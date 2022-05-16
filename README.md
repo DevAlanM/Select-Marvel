@@ -24,7 +24,7 @@ Porem depois de um tempo, decidi refazer o codigo novamente e encontrei o erro, 
 
 ## Link para testar o Select Marvel
 
-Link: (https://devalanm.github.io/SelectMarvel/)<br>
+Link: (https://devalanm.github.io/Select-Marvel/)<br>
 
 ## Contato
 Email para contato: <email>alanmartins789@gmail.com</email>
